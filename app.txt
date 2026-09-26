@@ -1,3 +1,3 @@
 Food Delivery Application
-Welcome Customer
+Welcome Customer and User
 Version 1.0
